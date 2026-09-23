@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <!-- Stylized 'T' Symbol -->
+  <g transform="translate(50, 20)">
+    <!-- Black Left Wing and Stem Body -->
+    <path d="M 60 40 L 220 40 L 220 75 L 145 75 L 145 100 C 130 135 110 175 100 220 L 128 265 L 105 275 L 82 225 C 92 185 112 140 125 100 L 98 100 L 75 75 L 98 75 L 60 40 Z" fill="#000000" />
+    <polygon points="60,40 225,40 215,75 145,75 145,95 100,275 80,240 115,75 75,75" fill="#000000" />
+    
+    <!-- Exact clean stylized T representation -->
+    <!-- Left black main part -->
+    <path d="M 50 35 L 210 35 L 205 70 L 140 70 L 125 145 C 115 170 100 205 85 240 L 110 265 L 85 275 L 65 225 C 80 185 100 140 110 95 L 70 95 Z" fill="#000000" />
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "THRIVE EXPERIENCE - Event Organizer & Experience Management",
+  "description": "Minimalist black, yellow, and white event organizer and experience management platform for corporate gatherings, team building, outbound, and adventure trips.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
