@@ -165,8 +165,6 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
           <div className="flex flex-wrap items-center gap-2">
             <span>© {new Date().getFullYear()} THRIVE EXPERIENCE. All rights reserved.</span>
-            <span>•</span>
-            <span className="font-semibold text-slate-700">Founders: Mohamad Rifki Sopyan Sauri & Ibu Indri</span>
           </div>
           <div className="flex items-center gap-6">
             <button onClick={() => onNavigate('about')} className="hover:text-slate-900 transition-colors">
