@@ -125,7 +125,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentPage, onNavigate }) => {
                         Kategori Layanan Utama
                       </span>
                       <span className="text-[10px] text-amber-700 bg-amber-50 px-2 py-0.5 rounded font-medium">
-                        Foto Kegiatan Nyata
+                        Foto Kegiatan
                       </span>
                     </div>
 
@@ -317,7 +317,7 @@ export const Navbar: React.FC<NavbarProps> = ({ currentPage, onNavigate }) => {
                     currentPage === 'about' ? 'bg-amber-50 text-amber-700 font-bold' : 'text-slate-800'
                   }`}
                 >
-                  Tentang Thrive & Leadership
+                  Tentang Thrive
                 </button>
 
                 <button
