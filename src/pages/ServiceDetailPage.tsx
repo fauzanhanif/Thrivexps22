@@ -106,7 +106,7 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ pageId, on
                 <div className="absolute bottom-4 left-4 right-4 text-white">
                   <div className="inline-flex items-center gap-1.5 bg-black/60 backdrop-blur-md px-3 py-1 rounded-full text-[11px] font-mono text-amber-300 mb-1.5">
                     <Camera className="w-3.5 h-3.5" />
-                    <span>Contoh Dokumentasi Nyata (Lisensi Bebas Royalti)</span>
+                    <span>Contoh Dokumentasi</span>
                   </div>
                   <p className="text-xs text-white/90 leading-tight">
                     {service.imageCaption}
@@ -143,12 +143,9 @@ export const ServiceDetailPage: React.FC<ServiceDetailPageProps> = ({ pageId, on
                 Galeri Visual Kegiatan
               </span>
               <h2 className="font-display font-bold text-2xl sm:text-3xl text-slate-900 mt-1">
-                Contoh Suasana & Dokumentasi Nyata
+                Contoh Suasana & Dokumentasi
               </h2>
             </div>
-            <span className="text-xs text-slate-500 font-mono hidden sm:inline-block">
-              Foto Bebas Royalti Unsplash
-            </span>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
