@@ -117,7 +117,6 @@ export const GalleryPage: React.FC<GalleryPageProps> = ({ onNavigate }) => {
               Layanan Dokumentasi Profesional Terintegrasi
             </span>
             <p className="text-xs text-slate-500 mt-0.5">
-              Setiap paket event Thrive mencakup fotografer, videografer, dan pilot drone dengan hasil aftermovie cinematic 4K.
             </p>
           </div>
           <button
