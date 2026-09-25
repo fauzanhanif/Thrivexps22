@@ -39,7 +39,7 @@ export const ServicesIndexPage: React.FC<ServicesIndexPageProps> = ({ onNavigate
             Spesialisasi Acara & Aktivitas
           </h1>
           <p className="mt-4 text-slate-600 text-base sm:text-lg leading-relaxed">
-            Setiap acara memiliki dinamika dan tujuan yang berbeda. Temukan spesialisasi yang sesuai dengan kebutuhan organisasi Anda di bawah ini, lengkap dengan contoh foto dokumentasi kegiatan nyata bebas royalti.
+            Setiap acara memiliki dinamika dan tujuan yang berbeda. Temukan spesialisasi yang sesuai dengan kebutuhan organisasi Anda di bawah ini, lengkap dengan contoh foto dokumentasi kegiatan.
           </p>
         </div>
 
@@ -78,7 +78,7 @@ export const ServicesIndexPage: React.FC<ServicesIndexPageProps> = ({ onNavigate
                   <div className="absolute bottom-4 left-4 right-4 flex items-center justify-between text-white text-xs">
                     <div className="flex items-center gap-1.5 bg-black/60 backdrop-blur-sm px-2.5 py-1 rounded-full text-[10px] text-white/90 font-mono">
                       <Camera className="w-3 h-3 text-amber-400" />
-                      <span>Foto Dokumentasi (Bebas Royalti Unsplash)</span>
+                      <span>Foto Dokumentasi</span>
                     </div>
                   </div>
                 </div>
