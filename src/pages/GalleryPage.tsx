@@ -45,7 +45,7 @@ export const GalleryPage: React.FC<GalleryPageProps> = ({ onNavigate }) => {
             Galeri Dokumentasi Kegiatan
           </h1>
           <p className="mt-4 text-slate-600 text-base sm:text-lg leading-relaxed">
-            Menyajikan rekaman visual energi, tawa, kekompakan, dan keindahan panorama alam dalam berbagai rangkaian acara Thrive Experience. Seluruh foto berlisensi bebas royalti (Unsplash).
+            Menyajikan rekaman visual energi, tawa, kekompakan, dan keindahan panorama alam dalam berbagai rangkaian acara Thrive Experience.
           </p>
         </div>
 
