@@ -208,7 +208,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
               </h2>
             </div>
             <p className="mt-4 md:mt-0 text-slate-500 text-sm max-w-md">
-              Klik pada sub-layanan di bawah untuk membuka halaman rincian lengkap, dokumentasi foto bebas royalti, simulasi rundown, dan konsultasi.
+              Klik pada sub-layanan di bawah untuk membuka halaman rincian lengkap, dokumentasi foto, simulasi rundown, dan konsultasi.
             </p>
           </div>
 
