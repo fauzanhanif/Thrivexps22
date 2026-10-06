@@ -126,7 +126,18 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
                   rel="noopener noreferrer"
                   className="hover:text-amber-600 font-semibold text-slate-900 transition-colors"
                 >
-                  0813-8090-8800 (WhatsApp)
+                  0813-8090-8800 (WhatsApp Admin 1)
+                </a>
+              </div>
+              <div className="flex items-center gap-3">
+                <Phone className="w-4 h-4 text-amber-600 shrink-0" />
+                <a
+                  href="https://wa.me/6281380908800"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="hover:text-amber-600 font-semibold text-slate-900 transition-colors"
+                >
+                  0858-1174-6071 (WhatsApp Admin 2)
                 </a>
               </div>
               <div className="flex items-center gap-3">
