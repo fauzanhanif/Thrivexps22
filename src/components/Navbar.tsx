@@ -233,7 +233,16 @@ export const Navbar: React.FC<NavbarProps> = ({ currentPage, onNavigate }) => {
                 className="text-xs font-semibold text-slate-600 hover:text-slate-900 flex items-center gap-1.5 px-3 py-2 rounded-md hover:bg-slate-50"
               >
                 <PhoneCall className="w-3.5 h-3.5 text-emerald-600" />
-                <span>0813-8090-8800</span>
+                <span>0813-8090-8800 (Admin 1)</span>
+              </a>
+              <a
+                href="https://wa.me/6285811746071?text=Halo%20Thrive%20Experience,%20saya%20ingin%20konsultasi%20mengenai%20rencana%20event."
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-xs font-semibold text-slate-600 hover:text-slate-900 flex items-center gap-1.5 px-3 py-2 rounded-md hover:bg-slate-50"
+              >
+                <PhoneCall className="w-3.5 h-3.5 text-emerald-600" />
+                <span>0858-1174-6071 (Admin 2)</span>
               </a>
 
               <button
