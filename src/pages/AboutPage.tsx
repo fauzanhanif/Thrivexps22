@@ -81,7 +81,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onNavigate }) => {
           </div>
         </div>
 
-        {/* Leadership Bios */}
+        {/* {/* Leadership Bios */}
         <div className="py-20 border-b border-slate-200">
           <span className="text-xs uppercase tracking-[0.25em] text-amber-700 font-bold block mb-10">
             Pimpinan & Pendiri Thrive Experience
@@ -128,7 +128,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onNavigate }) => {
               </p>
             </div>
           </div>
-        </div>
+        </div>*/}
 
         {/* 4 Core Corporate Values */}
         <div className="py-20 border-b border-slate-200">
