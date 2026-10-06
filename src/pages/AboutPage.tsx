@@ -81,55 +81,6 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onNavigate }) => {
           </div>
         </div>
 
-        {/* {/* Leadership Bios */}
-        <div className="py-20 border-b border-slate-200">
-          <span className="text-xs uppercase tracking-[0.25em] text-amber-700 font-bold block mb-10">
-            Pimpinan & Pendiri Thrive Experience
-          </span>
-
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-10">
-            {/* Founder 1 */}
-            <div className="bg-white border border-slate-200 p-8 rounded-2xl shadow-sm hover:shadow-md transition-shadow">
-              <div className="flex items-center gap-4 mb-6">
-                <div className="w-16 h-16 rounded-full bg-amber-400 text-slate-950 font-display font-black text-2xl flex items-center justify-center shadow-inner">
-                  RS
-                </div>
-                <div>
-                  <h3 className="font-display font-bold text-xl sm:text-2xl text-slate-900">
-                    Mohamad Rifki Sopyan Sauri
-                  </h3>
-                  <p className="text-xs uppercase font-mono text-amber-700 font-bold tracking-wider mt-0.5">
-                    Founder & Managing Director
-                  </p>
-                </div>
-              </div>
-              <p className="text-slate-600 text-sm leading-relaxed">
-                Berpengalaman lebih dari 8 tahun dalam manajemen event outdoor, perancangan simulasi experiential learning, dan eksekusi ratusan agenda korporasi skala nasional. Rifki memimpin visi Thrive untuk menghadirkan event yang tidak hanya tertib secara operasional, namun juga membawa transformasi emosional positif bagi peserta.
-              </p>
-            </div>
-
-            {/* Founder 2 */}
-            <div className="bg-white border border-slate-200 p-8 rounded-2xl shadow-sm hover:shadow-md transition-shadow">
-              <div className="flex items-center gap-4 mb-6">
-                <div className="w-16 h-16 rounded-full bg-slate-900 text-white font-display font-black text-2xl flex items-center justify-center shadow-inner">
-                  IN
-                </div>
-                <div>
-                  <h3 className="font-display font-bold text-xl sm:text-2xl text-slate-900">
-                    Ibu Indri
-                  </h3>
-                  <p className="text-xs uppercase font-mono text-amber-700 font-bold tracking-wider mt-0.5">
-                    Co-Founder & Operational Director
-                  </p>
-                </div>
-              </div>
-              <p className="text-slate-600 text-sm leading-relaxed">
-                Mengawasi ketepatan alur kerja, standar hospitality, perizinan, dan kepuasan klien. Dengan dedikasi tinggi pada manajemen logistik dan detail keselamatan, Ibu Indri memastikan setiap acara yang dipercayakan kepada Thrive terlaksana dengan standar kebersihan, kelezatan katering, dan kenyamanan tertinggi.
-              </p>
-            </div>
-          </div>
-        </div>*/}
-
         {/* 4 Core Corporate Values */}
         <div className="py-20 border-b border-slate-200">
           <span className="text-xs uppercase tracking-[0.25em] text-amber-700 font-bold block mb-4">
